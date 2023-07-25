@@ -1,2 +1,2 @@
-# Animation
- This is asimple animation project I have created
+# Animations
+ This is a beginner friendly animations program I created
